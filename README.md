@@ -38,7 +38,7 @@ This Python program allows for the management of student records through functio
 4. View the complete list of students with their details.
 
 ## Author:
-- Your Name (Include your contact information, if desired)
+- Your Name (Dire Dawa University Computer Science Department Group 4 student)
 
 ## License:
-- State the license under which the Student Management System project is shared (e.g., MIT License, Apache License 2.0).
+- State the license under which the Student Management System project is shared ().
