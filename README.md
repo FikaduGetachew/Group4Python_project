@@ -19,7 +19,7 @@ This Python program allows for the management of student records through functio
 8. Top Female Scorer per Department:
    - Highlight the top-scoring female student in a specified department.
 9. Students Above GPA Threshold:
-    -List students who have achieved a GPA greater than a specified threshold.
+   -List students who have achieved a GPA greater than a specified threshold.
    
 10. Frequent Student Names:
     - Display the names of students and the frequency of registrations for each name.
