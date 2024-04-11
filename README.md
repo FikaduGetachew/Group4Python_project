@@ -12,8 +12,6 @@ This Python program allows for the management of student records through functio
     - Update a student's GPA by entering the student ID and the new GPA value within the valid range (0-4).
 5. File Handling:
     - The program reads and writes to the "student_db.txt" file to manage student records.
-
-
 6. Total Male and Female Students:
     - Calculate and display the total count of male and female students from the database.
 7. Top Scorer per Department:
@@ -23,9 +21,8 @@ This Python program allows for the management of student records through functio
 9. Students Above GPA Threshold:
    -List students who have achieved a GPA greater than a specified threshold.
    
-11.  Frequent Student Names:
+10.  Frequent Student Names:
    - Display the names of students and the frequency of registrations for each name.
-   - 
 11. Total Students per Department:
     - Determine the total count of students in each department.
      
