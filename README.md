@@ -16,7 +16,7 @@ This Python program allows for the management of student records through functio
 
 6. Total Male and Female Students:
     - Calculate and display the total count of male and female students from the database.
- 7. Top Scorer per Department:
+7. Top Scorer per Department:
    - Identify and showcase the student with the highest GPA in each department.
 8.Top Female Scorer per Department:
    - Highlight the top-scoring female student in a specified department.
