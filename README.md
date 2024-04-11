@@ -21,7 +21,7 @@ This Python program allows for the management of student records through functio
 9. Students Above GPA Threshold:
    -List students who have achieved a GPA greater than a specified threshold.
    
-10.  Frequent Student Names:
+10. Frequent Student Names:
     - Display the names of students and the frequency of registrations for each name.
 11. Total Students per Department:
     - Determine the total count of students in each department.
